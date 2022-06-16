@@ -1,2 +1,3 @@
 # beton-transporter-backend
-https://github.com/kpaparid/beton-transporter-frontend
+
+Backend made with Spring Boot for https://github.com/kpaparid/beton-transporter-frontend
